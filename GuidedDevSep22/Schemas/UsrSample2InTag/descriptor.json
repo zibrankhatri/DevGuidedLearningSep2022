@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "256a3001-1700-4e44-8d96-c153e497314f",
+    "Name": "UsrSample2InTag",
+    "ModifiedOnUtc": "\/Date(1664876772000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sample2 section record tag",
+    "DependsOn": []
+  }
+}

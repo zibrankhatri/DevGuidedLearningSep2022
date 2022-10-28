@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd2e350e-04d7-4f3d-9281-97f5cdb90882",
+    "Name": "UsrRealtyy",
+    "ModifiedOnUtc": "\/Date(1665244324000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realtyy",
+    "DependsOn": []
+  }
+}

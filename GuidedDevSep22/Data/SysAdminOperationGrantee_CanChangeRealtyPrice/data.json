@@ -1,0 +1,56 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "307290db-d71f-4119-90d1-a006adf816a9"
+        },
+        {
+          "SchemaColumnUId": "423b165f-9759-437b-b532-95ef1b78063b",
+          "Value": "7f3b869f-34f3-4f20-ab4d-7480a5fdf647",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9d032101-3db5-4bba-ab16-294104cd15ad",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "a64eb826-4dc1-45fb-a5ac-d768275eb719",
+          "Value": "9aa48293-6ae8-4849-9173-5f18c3f92c30",
+          "DisplayValue": "Can change realty price"
+        },
+        {
+          "SchemaColumnUId": "e1f978af-3b07-4c9f-a422-c6170cd1b1a4",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9d056d43-c85d-414a-937e-0c965e8d2eb7"
+        },
+        {
+          "SchemaColumnUId": "423b165f-9759-437b-b532-95ef1b78063b",
+          "Value": "8dde850b-379d-4e50-99ec-b6cc41aff2d3",
+          "DisplayValue": "Finance"
+        },
+        {
+          "SchemaColumnUId": "9d032101-3db5-4bba-ab16-294104cd15ad",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "a64eb826-4dc1-45fb-a5ac-d768275eb719",
+          "Value": "9aa48293-6ae8-4849-9173-5f18c3f92c30",
+          "DisplayValue": "Can change realty price"
+        },
+        {
+          "SchemaColumnUId": "e1f978af-3b07-4c9f-a422-c6170cd1b1a4",
+          "Value": true
+        }
+      ]
+    }
+  ]
+}
